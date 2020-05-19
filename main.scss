@@ -37,7 +37,7 @@ body{
 }
 
 @media (min-width: 550px){
-    .container{
-
+    .span-2 {
+        grid-column: auto / span 2;
     }
 }
